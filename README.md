@@ -1,16 +1,66 @@
-## Hi there 👋
+# João Pedro de Abreu Silva
 
-<!--
-**solysad/solysad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim
+
+Desenvolvedor autodidata com aproximadamente 3 anos e meio de experiência prática em desenvolvimento web.
+
+Atualmente desenvolvendo a **Voxa**, uma plataforma Full Stack voltada para debates estruturados e participação cívica.
+
+Tenho interesse por:
+
+- Arquitetura de Software
+- Backend
+- Segurança
+- Sistemas Distribuídos
+
+---
+
+## Tecnologias
+
+HTML
+
+CSS
+
+JavaScript
+
+TypeScript
+
+React
+
+Next.js
+
+NestJS
+
+Node.js
+
+PostgreSQL
+
+Prisma
+
+Git
+
+Docker
+
+---
+
+## Atualmente
+
+🚀 Desenvolvendo a Voxa
+
+📚 Estudando arquitetura backend
+
+🔐 Aprendendo mais sobre cibersegurança
+
+💼 Buscando minha primeira oportunidade como desenvolvedor
+
+---
+
+## Contato
+
+LinkedIn
+
+Email
