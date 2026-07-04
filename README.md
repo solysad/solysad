@@ -77,7 +77,7 @@ Plataforma desenvolvida para promover debates estruturados e incentivar discuss�
 
 ## 🎯 Objetivo
 
-Busco minha primeira oportunidade como Desenvolvedor de Software, onde possa colaborar com equipes experientes, evoluir tecnicamente e contribuir para o desenvolvimento de produtos de qualidade.
+Busco contribuir com equipes de desenvolvimento enquanto continuo evoluindo tecnicamente, aplicando na prática minha experiência em projetos Full Stack e arquitetura de software.
 
 ---
 
